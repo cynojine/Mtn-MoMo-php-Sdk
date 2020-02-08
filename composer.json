@@ -1,0 +1,19 @@
+{
+  "name": "cynojine/mtn-momo",
+  "description": "SDK for integrating to MTN's MomoPay payment gateway",
+  "type": "library",
+  "require": {
+    "monolog/monolog": "1.*",
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "require-dev": {
+
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kazashim kuzasuwat",
+      "email": "kazashim@cynojine.com"
+    }
+  ]
+}
