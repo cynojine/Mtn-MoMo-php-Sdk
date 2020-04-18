@@ -3,6 +3,10 @@
 
 composer require cynojine/mtn-momo
 
+### Collections is used for requesting a payment from a customer  and checking status of transactions.
+- collectionPrimaryKey: Primary Key for the Collection product on the developer portal.
+- collectionUserId : For development environment, use the sandbox credentials else use the one on the developer portal.
+- collectionApiSecret : For development environment, use the sandbox credentials else use the one on the developer portal.
 
 ```php
 <?php
